@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/桥接模式/桥接模式.iml" filepath="$PROJECT_DIR$/桥接模式/桥接模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/策略模式-注解版/策略模式-注解版.iml" filepath="$PROJECT_DIR$/策略模式-注解版/策略模式-注解版.iml" />
+      <module fileurl="file://$PROJECT_DIR$/组合模式/组合模式.iml" filepath="$PROJECT_DIR$/组合模式/组合模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/设计模式从入门到放弃.iml" filepath="$PROJECT_DIR$/.idea/设计模式从入门到放弃.iml" />
+    </modules>
+  </component>
+</project>
