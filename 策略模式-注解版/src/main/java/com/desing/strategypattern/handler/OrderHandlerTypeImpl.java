@@ -1,4 +1,4 @@
-package com.desing.strategypattern;
+package com.desing.strategypattern.handler;
 
 import java.lang.annotation.Annotation;
 import java.util.Objects;

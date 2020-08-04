@@ -1,4 +1,6 @@
-package com.desing.strategypattern;
+package com.desing.strategypattern.handler;
+
+import com.desing.strategypattern.model.Order;
 
 /**
  * ClassName:MobileOrderHandler

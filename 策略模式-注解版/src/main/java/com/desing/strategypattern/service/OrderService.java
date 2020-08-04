@@ -1,5 +1,9 @@
-package com.desing.strategypattern;
+package com.desing.strategypattern.service;
 
+import com.desing.strategypattern.handler.OrderHandler;
+import com.desing.strategypattern.handler.OrderHandlerType;
+import com.desing.strategypattern.handler.OrderHandlerTypeImpl;
+import com.desing.strategypattern.model.Order;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.core.annotation.AnnotationUtils;
 import org.springframework.stereotype.Service;

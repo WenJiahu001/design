@@ -1,4 +1,4 @@
-package com.desing.strategypattern;
+package com.desing.strategypattern.handler;
 
 import org.springframework.stereotype.Service;
 

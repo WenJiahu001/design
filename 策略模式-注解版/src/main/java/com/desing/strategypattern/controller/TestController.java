@@ -1,7 +1,7 @@
 package com.desing.strategypattern.controller;
 
-import com.desing.strategypattern.Order;
-import com.desing.strategypattern.OrderService;
+import com.desing.strategypattern.model.Order;
+import com.desing.strategypattern.service.OrderService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
