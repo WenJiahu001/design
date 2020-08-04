@@ -4,8 +4,9 @@
  */
 public class Main {
     public static void main(String[] args) {
-        Person p = new Woman("小兰");
+        Person p = new Man("小明");
         Action a=new EatAction();
+
         p.getConclusion(a);
     }
 }
