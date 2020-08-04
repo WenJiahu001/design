@@ -7,15 +7,18 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="策略模式-注解版" />
+        <module name="strategy-pattern" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="strategy-pattern" target="1.8" />
       <module name="策略模式" target="1.5" />
       <module name="策略模式-注解版" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="strategy-pattern" options="-parameters" />
       <module name="策略模式-注解版" options="-parameters" />
     </option>
   </component>
