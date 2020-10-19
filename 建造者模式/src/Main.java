@@ -5,7 +5,7 @@
 public class Main {
     public static void main(String[] args) {
         Director director = new Director();
-        ConcreteBuilder1 builder1 = new ConcreteBuilder1();
+        Builder builder1 = new ConcreteBuilder1();
 
         director.Construct(builder1);//建造过程交给了指挥者
 
